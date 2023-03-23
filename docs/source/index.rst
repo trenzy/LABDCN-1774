@@ -21,4 +21,4 @@ Contents
    usage
    api
 
-Lumache has its documentation hosted on Read the Docs.
+This is the future place for Lab guides for Cisco Live
